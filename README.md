@@ -1,6 +1,6 @@
 # README
 
-This is an app that is created for practice purpose.
+This is a hello.. I mean goodbye world page that I use to practice doing ruby on rail.
 
 Basic:
 
@@ -17,8 +17,7 @@ none
 any will work as long as its useable for ruby on rails and activerecord(?)
 
 * Database initialization
-bundle exec rake db:create
-bundle exec rake db:migrate
+none
 
 * How to run the test suite
 I don't know yet(?) Just run the link
