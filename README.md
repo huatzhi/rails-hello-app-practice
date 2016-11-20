@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+This git will be move to bitbucket to make the git private. msy br if i remember i will delete this git later
