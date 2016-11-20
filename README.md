@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an app that is created for practice purpose.
 
-Things you may want to cover:
+Basic:
 
 * Ruby version
+ruby 2.3.1p112
 
 * System dependencies
+none (?)
 
 * Configuration
+none
 
 * Database creation
+any will work as long as its useable for ruby on rails and activerecord(?)
 
 * Database initialization
+bundle exec rake db:create
+bundle exec rake db:migrate
 
 * How to run the test suite
+I don't know yet(?) Just run the link
 
 * Services (job queues, cache servers, search engines, etc.)
+none
 
 * Deployment instructions
-
-* ...
+just do it!!
